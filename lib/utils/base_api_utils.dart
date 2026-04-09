@@ -52,7 +52,7 @@ class BaseApiUtils {
         ),
       );
       if (response.statusCode == 200 || response.statusCode == 201) {
-        onSuccess("Login SuccessFull", response.data);
+        onSuccess(response.data?["message"] ?? "Login Successful", response.data);
       } else {
         onFail(response.data?["message"], response.data);
       }
