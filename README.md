@@ -8,7 +8,7 @@ Mobile App Download Like
 - [https://drive.google.com/drive/folders/1ZgD6HGXo8kI5asWopGwgdQjDCvYwKRWm?usp=sharing]
 
 # Youtube Short Video
-- [https://youtu.be/ck5mW4Qwd3E]
+- [https://youtube.com/shorts/ZWJpv31ddh4?feature=share]
 
 # State Management Choice
 
