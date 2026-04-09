@@ -1,16 +1,33 @@
-# flutter_task_app
+# Flutter Task App
 
-A new Flutter project.
+A Flutter mobile application that api integration form swagger ui.
+The app is built using modern Flutter architecture with Getx for state management and Shared Preferences for local storage.
 
-## Getting Started
+# Setup Instructions
+Mobile App Download Like
+- [https://drive.google.com/drive/folders/1ZgD6HGXo8kI5asWopGwgdQjDCvYwKRWm?usp=sharing]
 
-This project is a starting point for a Flutter application.
+# Youtube Short Video
+- [https://youtu.be/ck5mW4Qwd3E]
 
-A few resources to get you started if this is your first Flutter project:
+# State Management Choice
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Flutter Getx
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses Flutter Getx for state management.
+
+Getx is a powerful,
+type-safe state management and dependency injection framework for Flutter and Dart, created
+by the same author as the popular provider package.
+
+Why Getx?
+1. Type-safe and compile-time safe
+2. No dependency on BuildContext
+3. Scalable for large applications
+4. Easy to test and maintain
+
+# Storage Approach
+
+## Shared Preferences (Local Database)
+
+This app uses Flutter shared preferences for local data storage.
